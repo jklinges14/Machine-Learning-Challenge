@@ -28,3 +28,13 @@ Considerations Thoughout The Process
 •	Not all variables are significant be sure to remove any insignificant variables.
 •	Make sure your sklearn package is up to date.
 •	Try a simple model fi
+________________________________________
+Submission
+
+Create a Jupyter Notebook for each model and host the notebooks on GitHub.
+Create a file for your best model and push to GitHub
+Include a README.md file that summarizes your assumptions and findings.
+Submit the link to your GitHub project to Bootcamp Spot.
+Ensure your repository has regular commits (i.e. 20+ commits) and a thorough README.md file
+
+© 2019 Trilogy Education Services, a 2U, Inc. brand. All Rights Reserved.
