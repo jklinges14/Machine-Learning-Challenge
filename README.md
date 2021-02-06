@@ -7,7 +7,8 @@ To help process this data, I will create machine learning models capable of clas
 2.	Tune the models
 3.	Compare two or more models
 ________________________________________
-Preprocess the Data
+Preprocess the Data:
+
 •	Preprocessed the dataset prior to fitting the model.
 •	Performed feature selection and remove unnecessary features.
 •	Used MinMaxScaler to scale the numerical data.
@@ -18,19 +19,21 @@ Tune Model Parameters
 Reporting
 •	Created a README that reports a comparison of each model's performance as well as a summary about my findings and any assumptions I made based on my model.
 ________________________________________
-Resources
+Resources:
+
 •	Exoplanet Data Source
 •	Scikit-Learn Tutorial Part 1
 •	Scikit-Learn Tutorial Part 2
 •	Grid Search
 ________________________________________
-Considerations Thoughout The Process
+Considerations Thoughout The Process:
+
 •	Start by cleaning the data, removing unnecessary columns, and scaling the data.
 •	Not all variables are significant be sure to remove any insignificant variables.
 •	Make sure your sklearn package is up to date.
 •	Try a simple model fi
 ________________________________________
-Submission
+Submission:
 
 Create a Jupyter Notebook for each model and host the notebooks on GitHub.
 Create a file for your best model and push to GitHub
