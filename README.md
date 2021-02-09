@@ -31,7 +31,7 @@ Considerations Thoughout The Process:
 •	Start by cleaning the data, removing unnecessary columns, and scaling the data.
 •	Not all variables are significant be sure to remove any insignificant variables.
 •	Make sure your sklearn package is up to date.
-•	Try a simple model fi
+•	Try a simple model fit.
 ________________________________________
 Submission:
 
