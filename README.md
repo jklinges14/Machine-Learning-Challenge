@@ -1,5 +1,7 @@
 # Machine Learning Homework - Exoplanet Exploration
 
+Use machine learning to identify exoplanets that exist outside of our solar system.
+
 ![exoplanets.jpg](Images/exoplanets.jpg)
 
 ### Before You Begin
